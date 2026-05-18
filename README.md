@@ -1,4 +1,4 @@
-# mobile-sales-
+# mobile-sales-Analysis-POWERBI
 # 📊 Mobile Sales Dashboard
 
 ## 📝1.project title:
